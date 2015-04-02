@@ -1,0 +1,22 @@
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.exe.config
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.exe
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.pdb
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\itextsharp.dll
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.csprojResolveAssemblyReference.cache
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Form1.resources
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Properties.Resources.resources
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.csproj.GenerateResource.Cache
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.exe
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.pdb
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\Excel.dll
+C:\Users\rmeling\Desktop\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\Excel.xml
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.exe.config
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.exe
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.pdb
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.exe
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.pdb
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\Excel.xml
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.csprojResolveAssemblyReference.cache
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Form1.resources
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Properties.Resources.resources
+C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.csproj.GenerateResource.Cache
