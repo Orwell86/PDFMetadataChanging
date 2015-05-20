@@ -20,3 +20,6 @@ C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code
 C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Form1.resources
 C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.Properties.Resources.resources
 C:\Users\rmeling\Desktop\___Main\Projects\001 - PDF Invoice Metadata Change\Code\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.csproj.GenerateResource.Cache
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging\PDFMetadataChanging\bin\Debug\PDFMetadataChanging.exe.config
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.exe
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging\PDFMetadataChanging\obj\Debug\PDFMetadataChanging.pdb
