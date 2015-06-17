@@ -1,4 +1,4 @@
-﻿namespace AppNexus.BSG.SunAtlas.PDFMetadataChanging
+﻿namespace AppNexus.BSG.SunAtlas.PDFMetadataModifier
 {
     partial class MainForm
     {

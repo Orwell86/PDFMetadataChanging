@@ -13,7 +13,7 @@ using iTextSharp.text.pdf;
 using iTextSharp.text.xml.xmp;
 using Excel;
 
-namespace AppNexus.BSG.SunAtlas.PDFMetadataChanging
+namespace AppNexus.BSG.SunAtlas.PDFMetadataModifier
 {
     public partial class MainForm : Form
     {

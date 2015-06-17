@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing;
 
-namespace AppNexus.BSG.SunAtlas.PDFMetadataChanging
+namespace AppNexus.BSG.SunAtlas.PDFMetadataModifier
 {
     class TextBoxButtonControl : UserControl
     {

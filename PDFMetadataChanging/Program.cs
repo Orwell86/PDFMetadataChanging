@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AppNexus.BSG.SunAtlas.PDFMetadataChanging
+namespace AppNexus.BSG.SunAtlas.PDFMetadataModifier
 {
     static class Program
     {

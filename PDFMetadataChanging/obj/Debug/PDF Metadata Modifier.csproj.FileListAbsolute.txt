@@ -1,0 +1,8 @@
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\obj\Debug\AppNexus.BSG.SunAtlas.PDFMetadataModifier.MainForm.resources
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\obj\Debug\PDF Metadata Modifier.csproj.GenerateResource.Cache
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\bin\Debug\PDF Metadata Modifier.exe.config
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\bin\Debug\PDF Metadata Modifier.exe
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\bin\Debug\PDF Metadata Modifier.pdb
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\obj\Debug\PDFMetadataModifier.Properties.Resources.resources
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\obj\Debug\PDF Metadata Modifier.exe
+C:\Users\rmeling\AppNexus\code\sun\PDFMetadataChanging_v2\PDFMetadataChanging\obj\Debug\PDF Metadata Modifier.pdb
